@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wise-wallet/static/css/main.b565f6aa.css",
+    "main.js": "/wise-wallet/static/js/main.392f2d6f.js",
+    "static/js/498.ff8e4549.chunk.js": "/wise-wallet/static/js/498.ff8e4549.chunk.js",
+    "static/js/703.11d5a2d4.chunk.js": "/wise-wallet/static/js/703.11d5a2d4.chunk.js",
+    "static/js/379.fcbab006.chunk.js": "/wise-wallet/static/js/379.fcbab006.chunk.js",
+    "static/js/787.d30e03d5.chunk.js": "/wise-wallet/static/js/787.d30e03d5.chunk.js",
+    "static/media/logo-no-background.png": "/wise-wallet/static/media/logo-no-background.622794764e5dd9ce7c13.png",
+    "index.html": "/wise-wallet/index.html",
+    "main.b565f6aa.css.map": "/wise-wallet/static/css/main.b565f6aa.css.map",
+    "main.392f2d6f.js.map": "/wise-wallet/static/js/main.392f2d6f.js.map",
+    "498.ff8e4549.chunk.js.map": "/wise-wallet/static/js/498.ff8e4549.chunk.js.map",
+    "703.11d5a2d4.chunk.js.map": "/wise-wallet/static/js/703.11d5a2d4.chunk.js.map",
+    "379.fcbab006.chunk.js.map": "/wise-wallet/static/js/379.fcbab006.chunk.js.map",
+    "787.d30e03d5.chunk.js.map": "/wise-wallet/static/js/787.d30e03d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b565f6aa.css",
+    "static/js/main.392f2d6f.js"
+  ]
+}
